@@ -1,0 +1,7 @@
+cd ~~~ 경로 들어가서
+
+git add -A   : 수정한것들 add
+
+git commit -m"~~~"    : ~~~메세지로 커밋(임시저장느낌)
+
+git push
