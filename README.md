@@ -1,3 +1,3 @@
-# pyhon-study
+# python-study
 
 just python study note
